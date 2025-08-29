@@ -1,0 +1,7 @@
+langchain
+langchain-community
+ollama
+pinecone-client
+langchain-huggingface
+langchain-ollama
+sentence-transformers

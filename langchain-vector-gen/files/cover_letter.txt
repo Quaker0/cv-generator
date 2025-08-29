@@ -1,0 +1,11 @@
+What I like:
+    - Example 1
+
+Who I am:
+    I am a developer ...
+
+Skills:
+    - Example skill
+
+Other learnings:
+    - Conferences or certificates
